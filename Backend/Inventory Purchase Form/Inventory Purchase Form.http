@@ -1,0 +1,6 @@
+@Inventory_Purchase_Form_HostAddress = http://localhost:5199
+
+GET {{Inventory_Purchase_Form_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

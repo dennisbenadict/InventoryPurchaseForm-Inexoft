@@ -1,0 +1,39 @@
+<div class="container">
+  <div class="header">
+    <h2>Taxes</h2>
+    <button mat-raised-button color="primary" (click)="openDialog()">Add Tax</button>
+  </div>
+
+  <table mat-table [dataSource]="taxes" class="mat-elevation-z8">
+    <ng-container matColumnDef="taxName">
+      <th mat-header-cell *matHeaderCellDef> Name </th>
+      <td mat-cell *matCellDef="let tax"> {{tax.taxName}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="percentage">
+      <th mat-header-cell *matHeaderCellDef> Percentage </th>
+      <td mat-cell *matCellDef="let tax"> {{tax.percentage}}% </td>
+    </ng-container>
+
+    <ng-container matColumnDef="isCompound">
+      <th mat-header-cell *matHeaderCellDef> Compound </th>
+      <td mat-cell *matCellDef="let tax"> {{tax.isCompound ? 'Yes' : 'No'}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="isActive">
+      <th mat-header-cell *matHeaderCellDef> Active </th>
+      <td mat-cell *matCellDef="let tax"> {{tax.isActive ? 'Yes' : 'No'}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="actions">
+      <th mat-header-cell *matHeaderCellDef> Actions </th>
+      <td mat-cell *matCellDef="let tax">
+        <button mat-button color="primary" (click)="openDialog(tax)">Edit</button>
+        <button mat-button color="warn" (click)="deleteTax(tax)">Delete</button>
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+</div>

@@ -1,0 +1,54 @@
+<div class="container">
+  <div class="header">
+    <h2>Products</h2>
+    <button mat-raised-button color="primary" (click)="openDialog()">Add Product</button>
+  </div>
+
+  <table mat-table [dataSource]="products" class="mat-elevation-z8">
+    <ng-container matColumnDef="productCode">
+      <th mat-header-cell *matHeaderCellDef> Code </th>
+      <td mat-cell *matCellDef="let product"> {{product.productCode}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="productName">
+      <th mat-header-cell *matHeaderCellDef> Name </th>
+      <td mat-cell *matCellDef="let product"> {{product.productName}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="category">
+      <th mat-header-cell *matHeaderCellDef> Category </th>
+      <td mat-cell *matCellDef="let product"> {{product.category}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="costPrice">
+      <th mat-header-cell *matHeaderCellDef> Cost </th>
+      <td mat-cell *matCellDef="let product"> {{product.costPrice | currency}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="sellingPrice">
+      <th mat-header-cell *matHeaderCellDef> Selling Price </th>
+      <td mat-cell *matCellDef="let product"> {{product.sellingPrice | currency}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="requiresLotTracking">
+      <th mat-header-cell *matHeaderCellDef> Lot Tracking </th>
+      <td mat-cell *matCellDef="let product"> {{product.requiresLotTracking ? 'Yes' : 'No'}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="isActive">
+      <th mat-header-cell *matHeaderCellDef> Active </th>
+      <td mat-cell *matCellDef="let product"> {{product.isActive ? 'Yes' : 'No'}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="actions">
+      <th mat-header-cell *matHeaderCellDef> Actions </th>
+      <td mat-cell *matCellDef="let product">
+        <button mat-button color="primary" (click)="openDialog(product)">Edit</button>
+        <button mat-button color="warn" (click)="deleteProduct(product)">Delete</button>
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+</div>

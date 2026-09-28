@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\controllers\\purchasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\services\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\services\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\models\\producttax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\models\\producttax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\services\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\services\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|c:\\users\\denni\\source\\repos\\inventory purchase form\\inventory purchase form\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6B2FDE-59CC-4501-B5CC-AE304F951AD4}|Inventory Purchase Form\\Inventory Purchase Form.csproj|solutionrelative:inventory purchase form\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Services\\PurchaseService.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\PurchaseService.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Services\\PurchaseService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwE8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T09:20:07.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Inventory Purchase Form\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T08:08:07.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchasesController.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Controllers\\PurchasesController.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Controllers\\PurchasesController.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Controllers\\PurchasesController.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Controllers\\PurchasesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T08:06:59.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\ProductService.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Services\\ProductService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:57:35.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Program.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Program.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:03:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\appsettings.Development.json",
+              "RelativeToolTip": "Inventory Purchase Form\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T07:09:17.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\appsettings.json",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\appsettings.json",
+              "RelativeToolTip": "Inventory Purchase Form\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T06:03:17.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:50:02.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Models\\Product.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:47:54.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T08:06:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\IProductService.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:58:21.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaxService.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\TaxService.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Services\\TaxService.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\TaxService.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Services\\TaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:57:42.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Services\\IInventoryService.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Services\\IInventoryService.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Services\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:38:39.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:37:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\DTOs\\InventoryDto.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\DTOs\\InventoryDto.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\DTOs\\InventoryDto.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\DTOs\\InventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:22:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:12:13.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Models\\Inventory.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:58:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductTax.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Models\\ProductTax.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Models\\ProductTax.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Models\\ProductTax.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Models\\ProductTax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:48:04.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Inventory Purchase Form\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\denni\\source\\repos\\Inventory Purchase Form\\Inventory Purchase Form\\Models\\Supplier.cs",
+              "RelativeToolTip": "Inventory Purchase Form\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:48:09.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
